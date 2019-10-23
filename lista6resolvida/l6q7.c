@@ -1,6 +1,6 @@
 #include <stdio.h>
 void main (){
-int n,m,x,o,a,l,i;
+int n,m,x,o,,l,;
     printf ("digite a primeira palavra: ");
 char n1[30];
 gets (n1);
