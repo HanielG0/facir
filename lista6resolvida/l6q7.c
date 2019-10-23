@@ -16,10 +16,6 @@ for(x=0;n2[x]!='\0';x++){
         o=("%d",n2[x]);
         l+=o;
 }
-for(x=0;n2[x]!='\0';x++){
-        a=("%d",n2[x]);
-        i==a;
-}
 if (m>l){
 printf ("a primeira palavra e maior");
 }else{
